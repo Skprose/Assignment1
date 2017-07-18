@@ -1,0 +1,27 @@
+body {
+	font-family: Helvetica;
+}
+
+button {
+	width: 20%;
+	background-color: grey;
+	color: rgb(135,180,20);
+	border: 2px solid black;
+	font-size: 1.5rem;
+	margin: 2px;
+}
+.header {
+	text-align: center;
+	background-color: seagreen;
+	font-size: 1.5rem;
+}
+.content {
+	height: 50%;
+	width: 100%;
+
+}
+#box {
+	align-self: center;
+	
+}
+
