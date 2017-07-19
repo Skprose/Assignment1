@@ -1,0 +1,23 @@
+* {
+  font-family: "fantasy","Arial","Georgia","cursive";
+  font-size: 20;
+  text-align: center;
+}
+h2 {
+  color:white;
+  background-color: black;
+  width:100%;
+  font-size: 40px;
+}
+h3 {
+  margin:20px;
+  padding:20px;
+  text-align: left;
+}
+li {
+  text-align: left;
+}
+h1 {
+  background-color: rgb(23,67,99);
+  font-size: 50px;
+}
